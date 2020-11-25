@@ -1,9 +1,5 @@
 # Project milestone P3
-- Done in group of 3
-- Authors:
-* Ghali Chraibi
-* Artur Jesslen 
-* Luc Michels
+- Done individually
 - Due: 27 Dec 2020, end of day
 
 
