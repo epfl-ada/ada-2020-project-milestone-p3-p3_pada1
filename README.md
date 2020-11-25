@@ -1,5 +1,5 @@
 # Project milestone P3
-- Done individually
+- Done in group
 - Due: 27 Dec 2020, end of day
 
 
