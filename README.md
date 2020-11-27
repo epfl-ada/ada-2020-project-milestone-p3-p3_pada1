@@ -9,7 +9,7 @@ In this study, we would like to confirm the results obtained on a larger dataset
 
 #### Research Questions
 
-Using Google Trends, do we still observe a chilling effect after the Snowden revelations?
+Using Google Trends, do we still observe a chilling effect after the Snowden revelations?  
 Do the results observed with Google Trends match those using Wikipedia? If not, how could we explain the differences? If yes, does the chilling effect last in the longer term (from 2015 when the original paper stops to 2020)?
 
 #### Proposed dataset
