@@ -16,8 +16,8 @@ Do the results observed with Google Trends match those using Wikipedia? If not, 
 
 As our dataset doesn’t exist, we plan to create our own dataset using unofficial APIs that access the official Google Trends platform.
 We found these 2 interesting libraries that fill our requirements:
-> [Pytrends](https://pypi.org/project/pytrends/), a python library.  
-> [Google trends API](https://www.npmjs.com/package/google-trends-api), a javascript library.
+> * [Pytrends](https://pypi.org/project/pytrends/), a python library.  
+> * [Google trends API](https://www.npmjs.com/package/google-trends-api), a javascript library.
 
 As we aim to work in Python, we will focus first on the Pytrends library. This library allows us to reproduce the same queries as if we were on Google Trends.
 
