@@ -26,8 +26,8 @@ As we aim to work in Python, we will focus first on the Pytrends library. This l
 The project aims to create a dataframe based on Google search data.  
 For that, we will first scrape the data we need from the proposed dataset and put them in a unique dataframe. Note that :
 
-- Google Trend does not allow to retrieve more than five keywords,
-- it does not give the absolute number of searches per keyword, but only relative searches in comparison with the other keywords retrieved.
+1. Google Trend does not allow to retrieve more than five keywords,
+2. it does not give the absolute number of searches per keyword, but only relative searches in comparison with the other keywords retrieved.
 
 We intend to tackle both issues with the following procedure: we will retrieve the subjects we are interested in, those related to terrorism similarly to what J.W. Penney used for his research with Wikipedia, in groups of four with each time the same reference subject (e.g. Youtube) in order to have the same relative relation between all subjects.
 
