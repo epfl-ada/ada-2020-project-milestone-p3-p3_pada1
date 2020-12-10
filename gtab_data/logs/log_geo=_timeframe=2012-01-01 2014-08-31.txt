@@ -321,3 +321,457 @@ New query calibrated!
 Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
 New query 'Recruitment'
 New query calibrated!
+
+2020-12-10 20:09:16.014518
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Al-Qaeda'
+
+2020-12-10 20:10:22.657457
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Al-Qaeda'
+New query calibrated!
+
+2020-12-10 20:10:24.995047
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'terrorism'
+New query calibrated!
+
+2020-12-10 20:12:31.469529
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Al-Qaeda'
+New query calibrated!
+
+2020-12-10 20:12:34.009261
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'terrorism'
+New query calibrated!
+
+2020-12-10 20:16:02.189775
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Al-Qaeda'
+New query calibrated!
+
+2020-12-10 20:16:04.673569
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'terrorism'
+New query calibrated!
+
+2020-12-10 20:53:47.956474
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Al-Qaeda'
+New query calibrated!
+
+2020-12-10 20:53:50.462569
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'terrorism'
+New query calibrated!
+
+2020-12-10 20:58:42.630466
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Al-Qaeda'
+New query calibrated!
+
+2020-12-10 20:58:45.496884
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'terrorism'
+New query calibrated!
+
+2020-12-10 20:58:50.286331
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'terror'
+New query calibrated!
+
+2020-12-10 20:58:55.247508
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'attack'
+New query calibrated!
+
+2020-12-10 20:59:01.394146
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'iraq'
+New query calibrated!
+
+2020-12-10 20:59:07.643916
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'afghanistan'
+New query calibrated!
+
+2020-12-10 20:59:12.614735
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'iran'
+New query calibrated!
+
+2020-12-10 20:59:16.559381
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Pakistan'
+New query calibrated!
+
+2020-12-10 20:59:22.758483
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Agro'
+New query calibrated!
+
+2020-12-10 20:59:28.807053
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Environmental Terrorism'
+New query calibrated!
+
+2020-12-10 20:59:33.583860
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Eco-Terrorism'
+New query calibrated!
+
+2020-12-10 20:59:38.411101
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Conventional Weapon'
+New query calibrated!
+
+2020-12-10 20:59:41.043232
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Weapons Grade'
+New query calibrated!
+
+2020-12-10 20:59:44.535951
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Dirty Bomb'
+New query calibrated!
+
+2020-12-10 20:59:47.347391
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Nuclear Enrichment'
+New query calibrated!
+
+2020-12-10 20:59:50.927269
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Nuclear'
+New query calibrated!
+
+2020-12-10 20:59:55.796107
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Chemical Weapon'
+New query calibrated!
+
+2020-12-10 20:59:58.617638
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Biological Weapon'
+New query calibrated!
+
+2020-12-10 21:00:03.350850
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Ammonium nitrate'
+New query calibrated!
+
+2020-12-10 21:00:10.382705
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Improvised Explosive Device'
+New query calibrated!
+
+2020-12-10 21:00:15.338369
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Abu Sayyaf'
+New query calibrated!
+
+2020-12-10 21:00:18.008924
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Hamas'
+New query calibrated!
+
+2020-12-10 21:00:22.817091
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'FARC'
+New query calibrated!
+
+2020-12-10 21:00:28.481660
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Irish Republican Army'
+New query calibrated!
+
+2020-12-10 21:00:32.180574
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Euskadi ta Askatasuna '
+New query calibrated!
+
+2020-12-10 21:00:36.734840
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Hezbollah'
+New query calibrated!
+
+2020-12-10 21:00:43.463069
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Tamil Tigers'
+New query calibrated!
+
+2020-12-10 21:00:46.198099
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'PLO'
+New query calibrated!
+
+2020-12-10 21:00:48.808724
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Palestine Liberation Front'
+New query calibrated!
+
+2020-12-10 21:00:53.709268
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Car bomb'
+New query calibrated!
+
+2020-12-10 21:00:59.266151
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Jihad'
+New query calibrated!
+
+2020-12-10 21:01:03.665770
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Taliban'
+New query calibrated!
+
+2020-12-10 21:01:08.279116
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Suicide bomber'
+New query calibrated!
+
+2020-12-10 21:01:10.931299
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Suicide attack'
+New query calibrated!
+
+2020-12-10 21:01:13.525232
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'AL Qaeda in the Arabian Peninsula'
+New query calibrated!
+
+2020-12-10 21:01:18.534630
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Al Qaeda in the Islamic Maghreb'
+New query calibrated!
+
+2020-12-10 21:01:22.977164
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Tehrik-i-Taliban Pakistan'
+New query calibrated!
+
+2020-12-10 21:01:27.553086
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Yemen'
+New query calibrated!
+
+2020-12-10 21:01:32.470980
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Pirates'
+New query calibrated!
+
+2020-12-10 21:01:37.214734
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Extremism'
+New query calibrated!
+
+2020-12-10 21:01:39.740405
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Somalia'
+New query calibrated!
+
+2020-12-10 21:01:45.381077
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Nigeria'
+New query calibrated!
+
+2020-12-10 21:01:49.124262
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Political radicalism'
+New query calibrated!
+
+2020-12-10 21:01:53.826465
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Al-Shabaab'
+New query calibrated!
+
+2020-12-10 21:01:56.476430
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Nationalism'
+New query calibrated!
+
+2020-12-10 21:02:03.351625
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Recruitment'
+New query calibrated!
+
+2020-12-10 21:02:09.394636
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Fundamentalism'
+New query calibrated!
+
+2020-12-10 21:02:11.970724
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Islamist'
+New query calibrated!
+
+2020-12-10 21:02:48.863255
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Al Qaeda'
+New query calibrated!
+
+2020-12-10 21:02:54.216065
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Terrorism'
+New query calibrated!
+
+2020-12-10 21:02:58.900614
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Terror'
+New query calibrated!
+
+2020-12-10 21:03:03.592425
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Environmental Terrorism'
+New query calibrated!
+
+2020-12-10 21:03:08.562094
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Eco-terrorism'
+New query calibrated!
+
+2020-12-10 21:03:13.216020
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Pakistan'
+New query calibrated!
+
+2020-12-10 21:03:18.857075
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Agro'
+New query calibrated!
+
+2020-12-10 21:03:24.456670
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Environmental Terrorism'
+New query calibrated!
+
+2020-12-10 21:03:28.491387
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Eco-Terrorism'
+New query calibrated!
+
+2020-12-10 21:03:33.256502
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Conventional Weapon'
+New query calibrated!
+
+2020-12-10 21:03:35.988172
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Weapons Grade'
+New query calibrated!
+
+2020-12-10 21:03:39.516889
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Dirty Bomb'
+New query calibrated!
+
+2020-12-10 21:03:42.140450
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Nuclear Enrichment'
+New query calibrated!
+
+2020-12-10 21:03:45.863033
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Nuclear'
+New query calibrated!
+
+2020-12-10 21:03:50.870042
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Chemical Weapon'
+New query calibrated!
+
+2020-12-10 21:03:53.512359
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Biological Weapon'
+New query calibrated!
+
+2020-12-10 21:03:58.417529
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Improvised Explosive Device'
+New query calibrated!
+
+2020-12-10 21:04:03.155749
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Abu Sayyaf'
+New query calibrated!
+
+2020-12-10 21:04:05.892011
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'FARC'
+New query calibrated!
+
+2020-12-10 21:04:12.076741
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Euskadi ta Askatasuna '
+New query calibrated!
+
+2020-12-10 21:04:17.135735
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Hezbollah'
+New query calibrated!
+
+2020-12-10 21:04:24.293581
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Palestine Liberation Front'
+New query calibrated!
+
+2020-12-10 21:04:28.618913
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Car bomb'
+New query calibrated!
+
+2020-12-10 21:04:34.472046
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Jihad'
+New query calibrated!
+
+2020-12-10 21:04:38.970267
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Taliban'
+New query calibrated!
+
+2020-12-10 21:04:43.667415
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Suicide bomber'
+New query calibrated!
+
+2020-12-10 21:04:46.379984
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Suicide attack'
+New query calibrated!
+
+2020-12-10 21:04:48.914392
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'AL Qaeda in the Arabian Peninsula'
+New query calibrated!
+
+2020-12-10 21:04:53.489001
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Al Qaeda in the Islamic Maghreb'
+New query calibrated!
+
+2020-12-10 21:04:58.310411
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Tehrik-i-Taliban Pakistan'
+New query calibrated!
+
+2020-12-10 21:05:02.979504
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Political radicalism'
+New query calibrated!
+
+2020-12-10 21:05:07.893522
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Al-Shabaab'
+New query calibrated!
+
+2020-12-10 21:05:10.528778
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Recruitment'
+New query calibrated!
+
+2020-12-10 21:05:16.454152
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query 'Islamist'
+New query calibrated!
