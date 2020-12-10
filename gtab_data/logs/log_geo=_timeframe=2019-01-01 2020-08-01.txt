@@ -1,0 +1,35 @@
+
+2020-12-10 11:19:46.527303
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2019-01-01 2020-08-01.tsv
+New query '/m/0jg7r'
+New query calibrated!
+
+2020-12-10 11:23:19.514039
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2019-01-01 2020-08-01.tsv
+New query 'facebook'
+New query calibrated!
+
+2020-12-10 11:23:23.970802
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2019-01-01 2020-08-01.tsv
+New query 'swaziland'
+New query calibrated!
+
+2020-12-10 11:26:30.141067
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2019-01-01 2020-08-01.tsv
+New query 'facebook'
+New query calibrated!
+
+2020-12-10 11:26:34.005368
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2019-01-01 2020-08-01.tsv
+New query 'swaziland'
+New query calibrated!
+
+2020-12-10 11:27:05.753114
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2019-01-01 2020-08-01.tsv
+New query 'facebook'
+New query calibrated!
+
+2020-12-10 11:27:09.087092
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2019-01-01 2020-08-01.tsv
+New query 'google'
+New query calibrated!
