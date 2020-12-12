@@ -775,3 +775,25 @@ New query calibrated!
 Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
 New query 'Islamist'
 New query calibrated!
+
+2020-12-11 20:08:35.919550
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query '/g/11k69f5spb'
+
+Bad keyword '/g/11k69f5spb', because The request failed: Google returned a response with code 400.
+Keyword /g/11k69f5spb is bad!
+
+2020-12-11 20:08:37.023834
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query '/g/11cr_hd3g5'
+New query calibrated!
+
+2020-12-11 20:09:30.592352
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query '/g/11cr_hd3g5'
+New query calibrated!
+
+2020-12-11 20:10:22.624853
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=_timeframe=2012-01-01 2014-08-31.tsv
+New query '/g/11cr_hd3g5'
+New query calibrated!
