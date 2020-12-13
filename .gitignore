@@ -1,5 +1,5 @@
 .DS_Store
-.ipynb_checkpoints/data_wrangling-checkpoint.ipynb
-.ipynb_checkpoints/find_search_terms-checkpoint.ipynb
+.ipynb_checkpoints
+.ipynb_checkpoints/*.ipynb
 data/API_key
-.ipynb_checkpoints/scrapping-checkpoint.ipynb
+
