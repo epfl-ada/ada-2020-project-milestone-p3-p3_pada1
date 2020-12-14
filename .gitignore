@@ -3,3 +3,4 @@
 .ipynb_checkpoints/*.ipynb
 data/API_key
 
+data/domestic.pkl
