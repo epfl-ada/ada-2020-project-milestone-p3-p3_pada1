@@ -1307,3 +1307,33 @@ New query calibrated!
 Using gtab_data/output/google_anchorbanks/google_anchorbank_geo=US_timeframe=2012-01-01 2014-08-31.tsv
 New query '/m/02qs3j'
 New query calibrated!
+
+2020-12-16 19:31:07.171034
+Start AnchorBank init for region US in timeframe 2012-01-01 2014-08-31...
+
+2020-12-16 19:31:31.103390
+Start AnchorBank init for region US in timeframe 2012-01-01 2014-08-31...
+
+2020-12-16 19:31:31.281290
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2014-08-31.tsv
+New query '/m/0vzv0rq'
+New query calibrated!
+
+2020-12-16 19:32:13.494666
+Start AnchorBank init for region US in timeframe 2012-01-01 2014-08-31...
+
+2020-12-16 19:32:13.668647
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2014-08-31.tsv
+New query '/m/0vzv0rq'
+New query calibrated!
+
+2020-12-16 19:32:33.956316
+Start AnchorBank init for region US in timeframe 2012-01-01 2014-08-31...
+
+2020-12-16 19:32:34.136767
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2014-08-31.tsv
+New query '/m/0vzv0rq'
+	Query: '/m/0vzv0rq'	Anchor:'/m/01qt9r'
+	Query: '/m/0vzv0rq'	Anchor:'Instagram'
+	Query: '/m/0vzv0rq'	Anchor:'/m/0cyhj_'
+New query calibrated!
