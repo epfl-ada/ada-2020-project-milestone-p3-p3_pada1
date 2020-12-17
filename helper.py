@@ -1,6 +1,7 @@
 import gtab
 import requests
 import pandas as pd
+import sys
 
 def create_search_terms_to_GKG_node_df(search_terms, domain_name, API_key):
     """
@@ -150,3 +151,13 @@ def get_json_structure(data):
 
     out += '\n}'
     return out
+
+def load_pickle(datapath):
+    
+    if sys.version_info[1] >= 8:
+        return pd.read_pickle(datapath)
+    else:
+        import pickle5 as pickle
+        with open(datapath, 'rb') as f:
+            return pickle.load(f)
+
