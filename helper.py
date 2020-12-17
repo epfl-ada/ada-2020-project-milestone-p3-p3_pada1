@@ -130,3 +130,23 @@ def create_and_set_gtab(start_timeframe, end_timeframe, geo, gtab_path = "gtab_d
     t.set_active_gtab(f"google_anchorbank_geo={geo}_timeframe={timeframe}.tsv")
     
     return t
+
+def get_json_structure(data):
+    out = '{'
+    for key, value in data.items():
+        if key == 'itemListElement':
+            out += '\n\t"' + key + '": [{'
+            for key2, value2 in value[0].items():
+                if key2 == 'result':
+                    out += '\n\t\t"' + key2 + '": {'
+                    for key3, value3 in value2.items():
+                        out += '\n\t\t\t' + key3 + '": ' + type(value3).__name__
+                    out += '\n\t\t}'
+                else:
+                    out += '\n\t\t"' + key2 + '": ' + type(value2).__name__
+            out += '\n\t}, ... ]'
+        else:
+            out += '\n\t"' + key + '": ' + type(value).__name__
+
+    out += '\n}'
+    return out
