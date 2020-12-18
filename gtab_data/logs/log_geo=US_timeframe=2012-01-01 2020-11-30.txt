@@ -575,3 +575,487 @@ New query calibrated!
 Using gtab_data/output/google_anchorbanks/google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
 New query '/m/02qs3j'
 New query calibrated!
+
+2020-12-18 14:10:17.131869
+Start AnchorBank init for region US in timeframe 2012-01-01 2020-11-30...
+
+2020-12-18 14:10:17.428077
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/0v74'
+New query calibrated!
+
+2020-12-18 14:10:22.334953
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/07jq_'
+New query calibrated!
+
+2020-12-18 14:10:25.553345
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/g/11bc5q9v7r'
+New query calibrated!
+
+2020-12-18 14:10:28.707908
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/0d05q4'
+New query calibrated!
+
+2020-12-18 14:10:32.777025
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/0jdd'
+New query calibrated!
+
+2020-12-18 14:10:36.890701
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/03shp'
+New query calibrated!
+
+2020-12-18 14:10:40.238745
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/05sb1'
+New query calibrated!
+
+2020-12-18 14:10:44.367702
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/0gggw2'
+New query calibrated!
+
+2020-12-18 14:10:47.523262
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/02w1mcd'
+
+Bad keyword '/m/02w1mcd', because The request failed: Google returned a response with code 400.
+Keyword /m/02w1mcd is bad!
+
+2020-12-18 14:10:48.665207
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/01s60b'
+New query calibrated!
+
+2020-12-18 14:10:51.888588
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/02t93h'
+New query calibrated!
+
+2020-12-18 14:10:54.899533
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/0blqm8'
+New query calibrated!
+
+2020-12-18 14:10:58.109947
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/0fjf_'
+New query calibrated!
+
+2020-12-18 14:11:00.404810
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/05gpf'
+New query calibrated!
+
+2020-12-18 14:11:04.402116
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/0bwkbcx'
+New query calibrated!
+
+2020-12-18 14:11:08.450288
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/g/121x751y'
+New query calibrated!
+
+2020-12-18 14:11:11.495145
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/0ny03'
+New query calibrated!
+
+2020-12-18 14:11:15.440614
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/01n8xw'
+New query calibrated!
+
+2020-12-18 14:11:20.217815
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/0xq_'
+New query calibrated!
+
+2020-12-18 14:11:22.539604
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/03m6j'
+New query calibrated!
+
+2020-12-18 14:11:26.465392
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/06hvg'
+New query calibrated!
+
+2020-12-18 14:11:28.890901
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/05sz6'
+New query calibrated!
+
+2020-12-18 14:11:31.085033
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/02pvw'
+New query calibrated!
+
+2020-12-18 14:11:33.246259
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/03m7d'
+New query calibrated!
+
+2020-12-18 14:11:35.529147
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/04q9w'
+New query calibrated!
+
+2020-12-18 14:11:39.353939
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/062dz'
+New query calibrated!
+
+2020-12-18 14:11:41.735546
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/01d_w8'
+New query calibrated!
+
+2020-12-18 14:11:45.731857
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/014bmh'
+New query calibrated!
+
+2020-12-18 14:11:47.944938
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/0445s'
+New query calibrated!
+
+2020-12-18 14:11:52.636410
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/07jqh'
+New query calibrated!
+
+2020-12-18 14:11:57.804569
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/078f4'
+New query calibrated!
+
+2020-12-18 14:12:00.044576
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/02psd87'
+New query calibrated!
+
+2020-12-18 14:12:03.898268
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/02qr9gb'
+New query calibrated!
+
+2020-12-18 14:12:07.840723
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/04jhbb_'
+New query calibrated!
+
+2020-12-18 14:12:11.729322
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/01z88t'
+New query calibrated!
+
+2020-12-18 14:12:15.673773
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/027947'
+New query calibrated!
+
+2020-12-18 14:12:18.099286
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/06tgw'
+New query calibrated!
+
+2020-12-18 14:12:23.058023
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/05cgv'
+New query calibrated!
+
+2020-12-18 14:12:27.307656
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/03mhnhh'
+New query calibrated!
+
+2020-12-18 14:12:29.518742
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/027ggxz'
+New query calibrated!
+
+2020-12-18 14:12:31.790666
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/05gd9'
+New query calibrated!
+
+2020-12-18 14:12:35.662311
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/03nw7w'
+New query calibrated!
+
+2020-12-18 14:12:38.913614
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/032b8'
+New query calibrated!
+
+2020-12-18 14:12:41.126716
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/02qs3j'
+New query calibrated!
+
+2020-12-18 14:12:43.418574
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/0fytk'
+New query calibrated!
+
+2020-12-18 14:12:47.498651
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/0js8z'
+New query calibrated!
+
+2020-12-18 14:12:50.913519
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/07xhy'
+New query calibrated!
+
+2020-12-18 14:12:55.107301
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/038r8p'
+New query calibrated!
+
+2020-12-18 14:13:00.083990
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/02qtlv'
+New query calibrated!
+
+2020-12-18 14:13:05.093620
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/0fynw'
+New query calibrated!
+
+2020-12-18 14:13:09.265433
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/0f4r5'
+New query calibrated!
+
+2020-12-18 14:13:13.374442
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/g/1210mblq'
+New query calibrated!
+
+2020-12-18 14:13:16.716503
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/02vnz'
+New query calibrated!
+
+2020-12-18 14:13:20.880366
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/04yd3hg'
+New query calibrated!
+
+2020-12-18 14:13:24.149629
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/0d6qjf'
+New query calibrated!
+
+2020-12-18 14:13:28.520930
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/02p7v5m'
+New query calibrated!
+
+2020-12-18 14:13:32.566110
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/012qj2'
+New query calibrated!
+
+2020-12-18 14:13:37.523851
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/02q3_66'
+
+Bad keyword '/m/02q3_66', because The request failed: Google returned a response with code 400.
+Keyword /m/02q3_66 is bad!
+
+2020-12-18 14:13:38.655823
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/02_1m'
+New query calibrated!
+
+2020-12-18 14:13:42.835644
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/020plr'
+New query calibrated!
+
+2020-12-18 14:13:45.606233
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/021psw'
+New query calibrated!
+
+2020-12-18 14:13:49.748154
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/03__hw'
+New query calibrated!
+
+2020-12-18 14:13:52.026061
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/0179dd'
+New query calibrated!
+
+2020-12-18 14:13:56.207877
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/02_hj'
+New query calibrated!
+
+2020-12-18 14:14:00.316886
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/09gs3'
+New query calibrated!
+
+2020-12-18 14:14:04.524210
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/052yrz'
+New query calibrated!
+
+2020-12-18 14:14:08.734712
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/01fp_h'
+New query calibrated!
+
+2020-12-18 14:14:13.062884
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/07t65'
+New query calibrated!
+
+2020-12-18 14:14:17.393247
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/0v74'
+New query calibrated!
+
+2020-12-18 14:14:22.419265
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/07jq_'
+New query calibrated!
+
+2020-12-18 14:14:25.789248
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/02w1mcd'
+
+Bad keyword '/m/02w1mcd', because The request failed: Google returned a response with code 400.
+Keyword /m/02w1mcd is bad!
+
+2020-12-18 14:14:26.952077
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/01s60b'
+New query calibrated!
+
+2020-12-18 14:14:30.348271
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/02t93h'
+New query calibrated!
+
+2020-12-18 14:14:33.631690
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/0blqm8'
+New query calibrated!
+
+2020-12-18 14:14:36.959069
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/0fjf_'
+New query calibrated!
+
+2020-12-18 14:14:39.420584
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/05gpf'
+New query calibrated!
+
+2020-12-18 14:14:43.660561
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/0bwkbcx'
+New query calibrated!
+
+2020-12-18 14:14:47.984267
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/g/121x751y'
+New query calibrated!
+
+2020-12-18 14:14:51.288715
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/01n8xw'
+New query calibrated!
+
+2020-12-18 14:14:56.564581
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/0xq_'
+New query calibrated!
+
+2020-12-18 14:14:58.839023
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/06hvg'
+New query calibrated!
+
+2020-12-18 14:15:01.186839
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/02pvw'
+New query calibrated!
+
+2020-12-18 14:15:03.576003
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/03m7d'
+New query calibrated!
+
+2020-12-18 14:15:05.915641
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/01d_w8'
+New query calibrated!
+
+2020-12-18 14:15:10.210737
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/014bmh'
+New query calibrated!
+
+2020-12-18 14:15:12.468175
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/0445s'
+New query calibrated!
+
+2020-12-18 14:15:17.647490
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/07jqh'
+New query calibrated!
+
+2020-12-18 14:15:22.774781
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/078f4'
+New query calibrated!
+
+2020-12-18 14:15:25.080932
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/02psd87'
+New query calibrated!
+
+2020-12-18 14:15:29.292743
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/02qr9gb'
+New query calibrated!
+
+2020-12-18 14:15:33.644673
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/04jhbb_'
+New query calibrated!
+
+2020-12-18 14:15:37.774823
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/03mhnhh'
+New query calibrated!
+
+2020-12-18 14:15:40.256655
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/027ggxz'
+New query calibrated!
+
+2020-12-18 14:15:42.531104
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/03nw7w'
+New query calibrated!
+
+2020-12-18 14:15:46.735154
+Using gtab_data\output\google_anchorbanks\google_anchorbank_geo=US_timeframe=2012-01-01 2020-11-30.tsv
+New query '/m/02qs3j'
+New query calibrated!
