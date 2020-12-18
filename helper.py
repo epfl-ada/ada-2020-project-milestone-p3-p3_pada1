@@ -108,7 +108,7 @@ def create_and_set_gtab(start_timeframe, end_timeframe, geo, gtab_path = "gtab_d
     -------
         start_timeframe (str): start of the timeframe for the queries (included)
         end_timeframe (str): end of the timeframe for the queries (included)
-        geo (str): geolocalisation of the search query
+        geo (str): geolocalisation of the search query (Two Uppercase letter (ex: US, CH...) or "" for worldwide)
         gtab_path (str): path to already existing data
 
     Returns:
